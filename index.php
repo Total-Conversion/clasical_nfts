@@ -19,5 +19,5 @@
     }
 
     echo "You have CORS!";
-    include_once("home.html");
 ?>
+<?php include_once("home.html"); ?>
